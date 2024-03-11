@@ -1,0 +1,5 @@
+GroupedPosition,PaceTotal,ShootingTotal,PassingTotal,DribblingTotal,DefendingTotal,PhysicalityTotal,GKDiving,GKHandling,GKKicking,GKPositioning,GKReflexes
+DF,65.54,40.52,53.02,56.83,63.99,68.9,10.4,10.38,10.29,10.33,10.31
+FW,71.34,65.27,55.08,65.28,31.49,64.54,10.33,10.31,10.45,10.27,10.33
+GK,64.98,62.85,62.0,65.96,35.97,63.22,64.98,62.85,62.0,63.22,65.96
+MF,69.62,57.79,62.62,66.89,50.55,61.67,10.26,10.27,10.28,10.34,10.23
