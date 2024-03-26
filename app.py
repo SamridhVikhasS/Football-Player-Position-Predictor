@@ -4,6 +4,7 @@ import pandas as pd
 from io import StringIO
 import predict_position as pp
 
+st.set_page_config(layout="wide")
 st.title("From Benchwarmer to Ballhawk - Optimal Player Position Predictor")
 
 import streamlit as st
