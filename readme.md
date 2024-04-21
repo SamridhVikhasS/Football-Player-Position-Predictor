@@ -31,7 +31,6 @@ The repository is organized as follows:
 
 ```bash
 git clone https://github.com/SamridhVikhasS/Football-Player-Position-Predictor.git
-cd player-position-prediction
 ```
 2. Install the required libraries
    ```bash
