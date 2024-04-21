@@ -19,12 +19,28 @@ The repository is organized as follows:
 - **predict_position.py**: Python script for predicting player positions.
 - **requirements.txt**: Text file listing project dependencies.
 
-## How to Run
-To run the web application:
-1. Install the required dependencies using `pip install -r requirements.txt`.
-2. Run the Flask app using `python app.py`.
-3. Access the web application in your browser at `http://localhost:8501`.
 
+## Requirements
+
+- Python 3
+- Libraries listed in `requirements.txt`
+
+## Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/player-position-prediction.git
+cd player-position-prediction
+```
+2. Install the required libraries
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the web application
+   ```bash
+   streamlit run app.py
+   ```
 ## Usage
 1. Input player attributes into the provided CSV template (`input_attributes_template.csv`).
 2. Upload the filled CSV file to the web application.
